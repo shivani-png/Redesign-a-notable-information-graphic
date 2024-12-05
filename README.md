@@ -25,7 +25,7 @@ This project is a modern redesign of the iconic 1854 cholera outbreak map create
 
 ### Example 1: Cholera Death Density Map
 
-![Cholera Death Density Map](path/to/cholera_density_map.png)
+![Cholera Death Density Map](Screenshot%202024-12-05%20123918.png)
 
 **Description**: This map visualizes the density of cholera deaths across different regions. The clustering around a specific water pump clearly indicates the source of contamination, reinforcing Dr. John Snow’s hypothesis.
 
@@ -33,17 +33,35 @@ This project is a modern redesign of the iconic 1854 cholera outbreak map create
 
 ### Example 2: Time-Series Analysis of Deaths
 
-![Time-Series Analysis](path/to/time_series_analysis.png)
+![Time-Series Analysis](Screenshot%202024-12-05%20124255.png)
 
 **Description**: A time-series analysis displaying the progression of cholera deaths over time. Peaks correspond to periods of high contamination levels.
 
 ---
 
-### Example 3: Comparison of Water Pump Influence
+### Example 3: Counterfactual Analysis of Water Sources
 
-![Water Pump Influence Comparison](path/to/water_pump_comparison.png)
+![Counterfactual Analysis](Screenshot%202024-12-05%20124323.png)
 
-**Description**: A comparative visualization showing the number of cholera deaths influenced by proximity to different water pumps.
+**Description**: This bar chart analyzes deaths associated with various water sources, highlighting the impact of different water quality scenarios on cholera mortality rates.
+
+---
+
+### Example 4: Comparative Mortality by Proximity to Water Sources
+
+![Comparative Mortality](Screenshot%202024-12-05%20175355.png)
+
+**Description**: This grouped bar chart compares cholera deaths by proximity to different water sources, providing insights into how spatial factors influenced mortality.
+
+---
+
+### Example 5: Social Network Diagram of Cholera Spread
+
+![Social Network Diagram](Screenshot%202024-12-05%20175411.png)
+
+**Description**: A hypothetical social network diagram depicting potential pathways of cholera transmission based on proximity and interactions.
+
+---
 
 ## Technologies Used
 
